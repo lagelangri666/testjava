@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="553ec1fd-16e2-4ef5-bff5-7dfe7b789f69" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1k5dwxaV2izEagpqJHU4j6yWCfc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.xlsx.java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="DivideXlsx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xlsx.java.DivideXlsx" />
+      <module name="ExcelDi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xlsx.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DivideXlsx" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="553ec1fd-16e2-4ef5-bff5-7dfe7b789f69" name="Default Changelist" comment="" />
+      <created>1604994628427</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604994628427</updated>
+      <workItem from="1604994632032" duration="16546000" />
+      <workItem from="1605143969982" duration="5374000" />
+      <workItem from="1606719043723" duration="648000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2653" y="90" width="1363" height="645" key="DiffContextDialog" timestamp="1605143778889">
+      <screen x="2560" y="-3" width="1549" height="831" />
+    </state>
+    <state x="2653" y="90" width="1363" height="645" key="DiffContextDialog/2560.-3.1549.831/0.0.2065.1122@2560.-3.1549.831" timestamp="1605143778889" />
+    <state x="3445" y="173" key="FileChooserDialogImpl" timestamp="1605163026336">
+      <screen x="2560" y="-3" width="1549" height="831" />
+    </state>
+    <state x="3445" y="173" key="FileChooserDialogImpl/2560.-3.1549.831/0.0.2065.1122@2560.-3.1549.831" timestamp="1605163026336" />
+    <state width="844" height="290" key="GridCell.Tab.0.bottom" timestamp="1605163027637">
+      <screen x="2560" y="-3" width="1549" height="831" />
+    </state>
+    <state width="844" height="290" key="GridCell.Tab.0.bottom/2560.-3.1549.831/0.0.2065.1122@2560.-3.1549.831" timestamp="1605163027637" />
+    <state width="844" height="290" key="GridCell.Tab.0.center" timestamp="1605163027637">
+      <screen x="2560" y="-3" width="1549" height="831" />
+    </state>
+    <state width="844" height="290" key="GridCell.Tab.0.center/2560.-3.1549.831/0.0.2065.1122@2560.-3.1549.831" timestamp="1605163027637" />
+    <state width="844" height="290" key="GridCell.Tab.0.left" timestamp="1605163027636">
+      <screen x="2560" y="-3" width="1549" height="831" />
+    </state>
+    <state width="844" height="290" key="GridCell.Tab.0.left/2560.-3.1549.831/0.0.2065.1122@2560.-3.1549.831" timestamp="1605163027636" />
+    <state width="844" height="290" key="GridCell.Tab.0.right" timestamp="1605163027637">
+      <screen x="2560" y="-3" width="1549" height="831" />
+    </state>
+    <state width="844" height="290" key="GridCell.Tab.0.right/2560.-3.1549.831/0.0.2065.1122@2560.-3.1549.831" timestamp="1605163027637" />
+    <state width="844" height="290" key="GridCell.Tab.1.bottom" timestamp="1605163027639">
+      <screen x="2560" y="-3" width="1549" height="831" />
+    </state>
+    <state width="844" height="290" key="GridCell.Tab.1.bottom/2560.-3.1549.831/0.0.2065.1122@2560.-3.1549.831" timestamp="1605163027639" />
+    <state width="844" height="290" key="GridCell.Tab.1.center" timestamp="1605163027638">
+      <screen x="2560" y="-3" width="1549" height="831" />
+    </state>
+    <state width="844" height="290" key="GridCell.Tab.1.center/2560.-3.1549.831/0.0.2065.1122@2560.-3.1549.831" timestamp="1605163027638" />
+    <state width="844" height="290" key="GridCell.Tab.1.left" timestamp="1605163027638">
+      <screen x="2560" y="-3" width="1549" height="831" />
+    </state>
+    <state width="844" height="290" key="GridCell.Tab.1.left/2560.-3.1549.831/0.0.2065.1122@2560.-3.1549.831" timestamp="1605163027638" />
+    <state width="844" height="290" key="GridCell.Tab.1.right" timestamp="1605163027639">
+      <screen x="2560" y="-3" width="1549" height="831" />
+    </state>
+    <state width="844" height="290" key="GridCell.Tab.1.right/2560.-3.1549.831/0.0.2065.1122@2560.-3.1549.831" timestamp="1605163027639" />
+    <state x="3071" y="-3" key="SettingsEditor" timestamp="1605144191597">
+      <screen x="2560" y="-3" width="1549" height="831" />
+    </state>
+    <state x="3071" y="-3" key="SettingsEditor/2560.-3.1549.831/0.0.2065.1122@2560.-3.1549.831" timestamp="1605144191597" />
+    <state x="2560" y="60" key="new project wizard" timestamp="1605147292324">
+      <screen x="2560" y="-3" width="1549" height="831" />
+    </state>
+    <state x="2560" y="60" key="new project wizard/2560.-3.1549.831/0.0.2065.1122@2560.-3.1549.831" timestamp="1605147292324" />
+    <state x="3328" y="149" width="672" height="678" key="search.everywhere.popup" timestamp="1605093774364">
+      <screen x="2560" y="-3" width="1549" height="831" />
+    </state>
+    <state x="3328" y="149" width="672" height="678" key="search.everywhere.popup/2560.-3.1549.831/0.0.2065.1122@2560.-3.1549.831" timestamp="1605093774364" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/4.1.2/poi-ooxml-4.1.2.jar!/org/apache/poi/xssf/usermodel/XSSFWorkbook.class</url>
+          <line>167</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ExcelDi/src/com/xlsx/java/ExcelReader.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

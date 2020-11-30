@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="11ce7089-13dd-4a0b-9476-8e9e2e4c19dd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kMZCyRKGuHZZLex3V3VXmj1woJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RunManager" selected="Application.WeatherMerge">
+    <configuration name="PaWeather01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PaChong.PaWeather01" />
+      <module name="PaChong" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PaChong.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeatherMerge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WeatherMerge.WeatherMerge" />
+      <module name="TestWeather" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WeatherMerge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WeatherMerge" />
+        <item itemvalue="Application.PaWeather01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11ce7089-13dd-4a0b-9476-8e9e2e4c19dd" name="Default Changelist" comment="" />
+      <created>1605512296779</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605512296779</updated>
+      <workItem from="1605512300271" duration="76918000" />
+      <workItem from="1606097196352" duration="277000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3520" y="163" width="467" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1605577597484">
+      <screen x="2560" y="-3" width="1549" height="831" />
+    </state>
+    <state x="3520" y="163" width="467" height="562" key="#com.intellij.ide.util.MemberChooser/2560.-3.1549.831/0.0.2065.1122@2560.-3.1549.831" timestamp="1605577597484" />
+    <state x="3295" y="156" key="FileChooserDialogImpl" timestamp="1606097405682">
+      <screen x="2560" y="-3" width="1549" height="831" />
+    </state>
+    <state x="3295" y="156" key="FileChooserDialogImpl/2560.-3.1549.831/0.0.2065.1122@2560.-3.1549.831" timestamp="1606097405682" />
+    <state width="842" height="169" key="GridCell.Tab.0.bottom" timestamp="1606047057950">
+      <screen x="2560" y="-3" width="1549" height="831" />
+    </state>
+    <state width="842" height="169" key="GridCell.Tab.0.bottom/2560.-3.1549.831/0.0.2065.1122@2560.-3.1549.831" timestamp="1606047057950" />
+    <state width="842" height="169" key="GridCell.Tab.0.center" timestamp="1606047057950">
+      <screen x="2560" y="-3" width="1549" height="831" />
+    </state>
+    <state width="842" height="169" key="GridCell.Tab.0.center/2560.-3.1549.831/0.0.2065.1122@2560.-3.1549.831" timestamp="1606047057950" />
+    <state width="842" height="169" key="GridCell.Tab.0.left" timestamp="1606047057950">
+      <screen x="2560" y="-3" width="1549" height="831" />
+    </state>
+    <state width="842" height="169" key="GridCell.Tab.0.left/2560.-3.1549.831/0.0.2065.1122@2560.-3.1549.831" timestamp="1606047057950" />
+    <state width="842" height="169" key="GridCell.Tab.0.right" timestamp="1606047057950">
+      <screen x="2560" y="-3" width="1549" height="831" />
+    </state>
+    <state width="842" height="169" key="GridCell.Tab.0.right/2560.-3.1549.831/0.0.2065.1122@2560.-3.1549.831" timestamp="1606047057950" />
+    <state width="842" height="259" key="GridCell.Tab.1.bottom" timestamp="1606046607822">
+      <screen x="2560" y="-3" width="1549" height="831" />
+    </state>
+    <state width="842" height="259" key="GridCell.Tab.1.bottom/2560.-3.1549.831/0.0.2065.1122@2560.-3.1549.831" timestamp="1606046607822" />
+    <state width="842" height="259" key="GridCell.Tab.1.center" timestamp="1606046607821">
+      <screen x="2560" y="-3" width="1549" height="831" />
+    </state>
+    <state width="842" height="259" key="GridCell.Tab.1.center/2560.-3.1549.831/0.0.2065.1122@2560.-3.1549.831" timestamp="1606046607821" />
+    <state width="842" height="259" key="GridCell.Tab.1.left" timestamp="1606046607821">
+      <screen x="2560" y="-3" width="1549" height="831" />
+    </state>
+    <state width="842" height="259" key="GridCell.Tab.1.left/2560.-3.1549.831/0.0.2065.1122@2560.-3.1549.831" timestamp="1606046607821" />
+    <state width="842" height="259" key="GridCell.Tab.1.right" timestamp="1606046607822">
+      <screen x="2560" y="-3" width="1549" height="831" />
+    </state>
+    <state width="842" height="259" key="GridCell.Tab.1.right/2560.-3.1549.831/0.0.2065.1122@2560.-3.1549.831" timestamp="1606046607822" />
+    <state x="3071" y="-3" key="SettingsEditor" timestamp="1605681048351">
+      <screen x="2560" y="-3" width="1549" height="831" />
+    </state>
+    <state x="3071" y="-3" key="SettingsEditor/2560.-3.1549.831/0.0.2065.1122@2560.-3.1549.831" timestamp="1605681048351" />
+    <state x="2919" y="116" key="new project wizard" timestamp="1606097471547">
+      <screen x="2560" y="-3" width="1549" height="831" />
+    </state>
+    <state x="2919" y="116" key="new project wizard/2560.-3.1549.831/0.0.2065.1122@2560.-3.1549.831" timestamp="1606097471547" />
+    <state x="3323" y="189" key="run.anything.popup" timestamp="1605855771842">
+      <screen x="2560" y="-3" width="1549" height="831" />
+    </state>
+    <state x="3323" y="189" key="run.anything.popup/2560.-3.1549.831/0.0.2065.1122@2560.-3.1549.831" timestamp="1605855771842" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/PaChong/PaWeather01.java</url>
+          <line>19</line>
+          <properties class="PaChong.PaWeather01" method="zhanDian">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TestWeather/src/main/java/WeatherMerge/WeatherMerge.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TestWeather/src/main/java/WeatherMerge/WeatherMerge.java</url>
+          <line>155</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TestWeather/src/main/java/WeatherMerge/WeatherMerge.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
